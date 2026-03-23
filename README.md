@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey there! I'm Anand Kumar Annamareddy ||
+Aspiring Software Developer | DSA Enthusiast.
 
-<!--
-**anandkumar200/anandkumar200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills :
+ - C/C++
+ - DSA(C++)
 
-Here are some ideas to get you started:
+Currently Working on :
+ - SQL
+ - Improving problem - solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me :
+LinkedIn : https://www.linkedin.com/in/anand-kumar-annamareddy-5b1918379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
